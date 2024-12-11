@@ -1,0 +1,35 @@
+[
+    {
+        "run": "14141414-9",
+        "nombre": "Alumno",
+        "apellido": "POO",
+        "direccion": "Inacap",
+        "fono": 14141414,
+        "correo": "correo@correo.cl",
+        "montoCredito": 505050,
+        "deuda": 606060,
+        "tipo": 3
+    },
+    {
+        "run": "12345678-9",
+        "nombre": "Carlos",
+        "apellido": "Pérez",
+        "direccion": "Av. Los Álamos 1234",
+        "fono": 98765432,
+        "correo": "carlos@correo.cl",
+        "montoCredito": 150000,
+        "deuda": 80000,
+        "tipo": 2
+    },
+    {
+        "run": "87654321-0",
+        "nombre": "Ana",
+        "apellido": "López",
+        "direccion": "Calle Falsa 456",
+        "fono": 11223344,
+        "correo": "ana@correo.cl",
+        "montoCredito": 250000,
+        "deuda": 100000,
+        "tipo": 1
+    }
+]
